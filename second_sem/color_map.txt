@@ -1,0 +1,94 @@
+Adygey	51959
+Altay	56554
+Amur	85370
+Arkhangel'sk	87248
+Astrakhan'	61025
+Bashkortostan	67580
+Belgorod	69718
+Bryansk	56761
+Buryat	70468
+Chechnya	52430
+Chelyabinsk	72180
+Chita	76911
+Chukchi_Autonomous_Okrug	159275
+Chuvash	58052
+City_of_St._Petersburg	117059
+Dagestan	45383
+Gorno-Altay	61410
+Ingush	51779
+Irkutsk	88952
+Ivanovo	56856
+Kabardin-Balkar	53236
+Kaliningrad	73553
+Kalmyk	58087
+Kaluga	80486
+Kamchatka	133758
+Karachay-Cherkess	52562
+Karelia	84790
+Kemerovo	77637
+Khabarovsk	98102
+Khakass	77853
+Khanty-Mansiy	129510
+Kirov	61056
+Komi	103074
+Kostroma	56070
+Krasnodar	66355
+Krasnoyarsk	95584
+Kurgan	54969
+Kursk	59213
+Leningrad	84594
+Lipetsk	67324
+Maga_Buryatdan	106304
+Mariy-El	54392
+Mordovia	53749
+Moskovsskaya	91169
+Moskva	138903
+Murmansk	109272
+Nenets	135949
+Nizhegorod	72218
+North_Ossetia	52423
+Novgorod	67728
+Novosibirsk	87980
+Omsk	71958
+Orel	57322
+Orenburg	64842
+Penza	63113
+Perm'	83437
+Primor'ye	92571
+Pskov	57370
+Rostov	66733
+Ryazan'	61980
+Sakha_(Yakutia)	147239
+Sakhalin	134317
+Samara	80048
+Saratov	60301
+Smolensk	61871
+Stavropol'	55830
+Sverdlovsk	86444
+Tambov	54592
+Tatarstan	84026
+Tomsk	87011
+Tula	72346
+Tuva	71576
+Tver'	61966
+Tyumen'	104749
+Udmurt	65256
+Ul'yanovsk	59770
+Vladimir	64014
+Volgograd	63766
+Vologda	75552
+Voronezh	68644
+Yamal-Nenets	152311
+Yaroslavl'	72307
+Yevrey	69904
+
+
+
+40963 – 54892  
+54892 – 68821  
+68821 – 82750  
+82750 – 96678  
+96678 – 110607  
+110607 – 124536  
+124536 – 138465  
+138465 – 152394
